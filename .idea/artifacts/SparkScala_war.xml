@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SparkScala:war">
+    <output-path>$PROJECT_DIR$/SparkScala/target</output-path>
+    <root id="archive" name="SparkScala-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SparkScala:war exploded" />
+    </root>
+  </artifact>
+</component>
